@@ -7,7 +7,7 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	//¬вод массива
+	//¬вод массива 2
 	int M;
 	int N;
 	printf("Please enter the number N: ");
