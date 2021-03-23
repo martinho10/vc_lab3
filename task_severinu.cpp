@@ -26,6 +26,7 @@ int _tmain(int argc, _TCHAR* argv[])
 		if (u != M - 1) printf("%i, ", A[u]);
 		else printf("%i", A[u]);
 	}
+	/// severinu 1 my
 	int *diffValues = (int *)calloc(M, sizeof(int)); //Массив, содержащий различные значения
 	//Сравниваем каждый элемент исходного массива с каждым элементом массива diffValues
 	int index = 0;
