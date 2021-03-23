@@ -55,6 +55,8 @@ int _tmain(int argc, _TCHAR* argv[])
 	free(A);
 	free(diffValues);
 	getch();
+	printf("Finished");
+	printf("Finished 2");
 	return 0;
 }
 
