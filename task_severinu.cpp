@@ -57,6 +57,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	free(A);
 	free(diffValues);
 	getch();
+	// getch();
 	return 0;
 }
 
