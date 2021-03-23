@@ -16,6 +16,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	printf("Please enter the number of elements of the array: ");
 	scanf("%i", &M);
 	printf("Please enter the elements of the array: \n");
+  // Here we go. Second commit to gorn branch.
 	int *A = (int *)calloc(M, sizeof(int));
 	for (int i = 0; i < M; i++) 
 	{
